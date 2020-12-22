@@ -1,0 +1,67 @@
+
+body  {
+  background: #99ccff;
+  color: blue;
+  font-family: Helveltica, Roboto, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: rgb(, 20, 0);
+  padding: 20px;
+}
+
+section {
+  background: white;
+  color: gray;
+  padding: 20px;
+}
+
+div {
+  blackground: white;
+  margin:auto;
+  width: 100px;
+
+}
+
+dl {
+  text-align: left;
+}
+
+p {
+  font-family: "Roboto";
+  font-size: 12pt;
+  text-align: left;
+  color: #000066;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 5px 15px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.navigation {
+  float: left;
+  margin-top: 5px;
+}
